@@ -16,6 +16,17 @@ More details on Non-Linear-Bounding-Function can be found in the [paper](https:/
 2. Run Start_Dehazing.m
 3. Respective haze-free images will be saved in the folder, named Results
 
+# Visual Results
+![image](https://user-images.githubusercontent.com/71458796/133307037-7418df7e-13e2-4470-bdd7-1c490b7e8d9b.png)
+
+# Quantitative Results
+![image](https://user-images.githubusercontent.com/71458796/133307122-61c67485-e205-487a-8e96-20ef0d2a6104.png)
+
+# Computational Complexity
+![image](https://user-images.githubusercontent.com/71458796/133307291-544147e0-bc51-4500-b017-a6409b03b621.png)
+
+![image](https://user-images.githubusercontent.com/71458796/133307372-cd919f88-8435-4feb-8e1d-86df0cb2bef5.png)
+
 # Remarks
 1. This code is based on [Non-Linear Bounding Function](https://doi.org/10.1109/TIP.2020.2975909)
 2. This code is for research and study purpose. If you use this code, then cite the follwing paper.
