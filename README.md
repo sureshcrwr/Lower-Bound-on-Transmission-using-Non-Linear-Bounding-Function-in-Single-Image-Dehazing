@@ -21,7 +21,7 @@ More details on Non-Linear-Bounding-Function can be found in the [paper](https:/
 2. This code is for research and study purpose. If you use this code, then cite the follwing paper.
 
 # Citation (Plain Text)
-## S. C. Raikwar and S. Tapaswi, "Lower Bound on Transmission Using Non-Linear Bounding Function in Single Image Dehazing," in IEEE Transactions on Image Processing, vol. 29, pp. 4832-4847, 2020, doi: 10.1109/TIP.2020.2975909.
+S. C. Raikwar and S. Tapaswi, "Lower Bound on Transmission Using Non-Linear Bounding Function in Single Image Dehazing," in IEEE Transactions on Image Processing, vol. 29, pp. 4832-4847, 2020, doi: 10.1109/TIP.2020.2975909.
 
 # Citation (BibTex)
 @article{raikwar-tapaswi,
