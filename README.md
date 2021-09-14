@@ -10,8 +10,7 @@ More details on Non-Linear-Bounding-Function can be found in the [paper](https:/
 - Windows 10
 - Matlab 2017a
 
-# Testing
-## Upload hazy images.
+# Steps to perform Dehazing
 1. Upload hazy images in the folder, named "Data"
 
 2. Run Start_Dehazing.m
